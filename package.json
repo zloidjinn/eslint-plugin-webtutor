@@ -1,0 +1,28 @@
+{
+    "name": "eslint-plugin-webtutor",
+    "version": "1.0.0",
+    "description": "плагин для платформы WebSoft HCM",
+    "main": "./src/index.js",
+    "scripts": {
+      "build": "node ./src/parser/."
+    },
+    "keywords": [
+        "eslint",
+        "plugin",
+        "webtutor"
+    ],
+    "author": {
+        "name": "Kirill Markvart",
+        "email": "markvart.kirill@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/"
+    },
+    "homepage": "https://github.com/#readme",
+    "license": "ISC",
+    "devDependencies": {
+        "@umbrik/webtutor-types": "^7.56.0",
+        "eslint": "^8.54.0"
+    }
+}
