@@ -17,9 +17,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/"
+        "url": "git+https://github.com/zloidjinn/eslint-plugin-webtutor"
     },
-    "homepage": "https://github.com/#readme",
+    "homepage": "https://github.com/zloidjinn/eslint-plugin-webtutor#readme",
     "license": "ISC",
     "devDependencies": {
         "@umbrik/webtutor-types": "^7.56.0",
